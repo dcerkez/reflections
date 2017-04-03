@@ -7,6 +7,8 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	I can use staging area to add only those files that comprises logical whole
+	before committing.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
