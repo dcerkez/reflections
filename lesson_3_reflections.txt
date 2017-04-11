@@ -8,3 +8,9 @@ automatically stay up-to-date with your remote repository?
     It gives you the freedom to choose which branch to pull and when. It also gives you the
 	possibility to pull changes in one branch from remote to more then one branch in local
 	and to chose to which ones.
+	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks works only on GitHub and it is cloning on behalf of user from another GitHub repository to user's copy.
+	Clones are copies of some repository either locally or from remote repository. Branch is local bifurcation
+	from commit into two independents branches.
