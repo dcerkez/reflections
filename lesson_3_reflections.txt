@@ -20,3 +20,8 @@ What is the benefit of having a copy of the last known state of the remote store
 	The benefit is that from that last known state of the remote any new commit on remote (origin )could be appended to that commit
 	thus forming the branch (origin/master). Then that branch containing all the remote commits (after git fetch origin) could be merged to local branch
 	(by git merge master origin/master)
+
+How would you collaborate without using Git of GitHub? What would be easier, and what would be harder?
+
+	Nothing would be easier, except not have to learn Git and GitHub. Tracking changes,
+	sharing them with others and resolving conflicts would be harder.
